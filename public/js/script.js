@@ -1,4 +1,3 @@
-console.log('Server side js is up and running')
 
 //using the fetch api sample
 // fetch('http://localhost:3000/weather?address=Boston').then((response) => {
